@@ -1,0 +1,29 @@
+---- Error Start ----
+File - Shader.cpp
+Function - GetAttribLocation
+> Log
+An attribute was not found.
+<Attribute name>
+AUV
+<Shader Files Involved>
+Resource/Shader/phong.vert
+Resource/Shader/phong.frag
+----- Error End -----
+---- Error Start ----
+File - main.cpp
+Function - Initialize()
+> Log
+> OPENGL ERROR CODE
+GL_INVALID_VALUE
+> DESCRIPTION
+During initialization
+----- Error End -----
+---- Error Start ----
+File - main.cpp
+Function - Framebuffer::Initialize
+> Log
+> OPENGL ERROR CODE
+GL_INVALID_VALUE
+> DESCRIPTION
+During Framebuffer creation
+----- Error End -----
